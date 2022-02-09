@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=jiggles
+GenericName=jiggles
+Comment=jiggles the mouse jiggler
+Icon=/home/   YOURICONPATHHERE   /icons/jiggles.png
+Categories=Office;
+Exec=jiggles
+Terminal=false
+StartupWMClass=all
